@@ -1,0 +1,20 @@
+.button-search {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 32px;
+  height: 56px;
+  background-color: #7b6ef6;
+  color: #ffffff;
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 400;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.button-search:hover {
+  background-color: #6658e8;
+}
